@@ -1,0 +1,14 @@
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\bin\Debug\net7.0\задача_3.exe
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\bin\Debug\net7.0\задача_3.deps.json
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\bin\Debug\net7.0\задача_3.runtimeconfig.json
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\bin\Debug\net7.0\задача_3.dll
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\bin\Debug\net7.0\задача_3.pdb
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.AssemblyInfoInputs.cache
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.AssemblyInfo.cs
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.csproj.CoreCompileInputs.cache
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.dll
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\refint\задача_3.dll
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.pdb
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\задача_3.genruntimeconfig.cache
+C:\Users\kaigo\GeekBrains\дз\урок_9\задача_3\obj\Debug\net7.0\ref\задача_3.dll
